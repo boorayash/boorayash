@@ -1,35 +1,66 @@
-# 👋 Hi, I’m Yash Boora
+# 👋 Hi, I'm Yash Boora
 
-Web development–focused engineering student building focused full-stack projects with Node.js. I care about clean structure, correctness, and understanding trade-offs over buzzwords.
-
----
-
-## 🔭 Working on
-Full-stack web apps with REST APIs, JWT authentication, and database integration. Refactoring backend logic to improve readability and reliability.
+Computer Science engineering student focused on building **real-time systems, scalable backend services, and end-to-end full-stack applications**.  
+I enjoy working close to system behaviour — understanding latency, event flow, and performance trade-offs rather than just shipping surface-level features.
 
 ---
 
-## 🌱 Improving
-Express app structure (controllers/services/middleware), JWT auth flows, database schema design, and consistent API error handling.
+## ⭐ Featured Project — Control (Remote Desktop System)
+
+A real-time remote desktop and input streaming system designed to explore **low-latency interaction across distributed devices**.
+
+**Key areas explored:**
+- Real-time screen streaming and remote input control  
+- High-frequency cursor rendering with interpolation smoothing  
+- Event throttling strategies to reduce perceived input lag  
+- Peer communication and synchronisation using Socket architecture  
+- Electron-based screen capture and efficient frame transmission  
+
+> This project is my current engineering playground for experimenting with performance, networking behaviour, and real-time UX responsiveness.
 
 ---
 
-## 🤝 Open to collaborate
-Web or full-stack projects with clear scope, ownership, and a bias toward shipping working solutions.
+## 🔧 Currently Working On
+
+- Improving real-time interaction smoothness and latency stability  
+- Refactoring backend architecture for cleaner modular services  
+- Strengthening authentication flows and API reliability  
+- Practicing Data Structures & Algorithms consistently  
 
 ---
 
-## 💬 Ask me about
-REST API design in Express, JWT access + refresh tokens, middleware flow, and API validation patterns.
+## 🌱 Exploring & Improving
+
+- Distributed system interaction patterns  
+- Event-driven backend design  
+- Performance optimisation techniques  
+- Scalable REST API structuring  
 
 ---
 
-## 🛠 Tech
-**Backend:** JavaScript, Node.js, Express, MongoDB, PostgreSQL  
-**Frontend:** HTML, CSS, React, Tailwind CSS  
-**Other:** C++, Java (DSA) | Docker (learning)
+## 💻 Tech Stack
+
+**Languages:**  
+C++, JavaScript, Java  
+
+**Backend & Systems:**  
+Node.js, Express, Socket.IO, Electron  
+
+**Frontend:**  
+React, HTML, CSS, Tailwind  
+
+**Database:**  
+MongoDB  
 
 ---
 
-## ⚡ Fun fact
-I learn fastest by building end-to-end, breaking things, and fixing them until the design makes sense.
+## 🤝 Open to Collaborate
+
+Interested in working on **real-world web, backend, or systems-oriented projects**  
+where there is clear ownership, problem solving, and opportunity to ship meaningful features.
+
+---
+
+## ⚡ Fun Fact
+
+I learn fastest by **building full systems, breaking them, measuring behaviour, and iterating until the design makes sense.**
